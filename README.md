@@ -5,3 +5,5 @@ REQUIREMENTS TO UNDERSTAND THE PROJECT - you just need to  be famililiar with ba
 before running each and every cell make sure that  you have installed the essential modules using "pip install module_name" or whatever the apprroach you choose this project might be look small and simple but you learn a lot on how data really gives us the results beyond our expectetions
 , if you face any issue feel free to drop me a mail
 prajwalmh6111@gmail.com 
+
+![‪C:\Users\prajw\OneDrive\Pictures\Screenshots\Screenshot (88).png]
