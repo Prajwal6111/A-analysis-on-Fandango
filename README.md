@@ -2,7 +2,7 @@
 If you are looking for a simple project on Python to play around with the data, You are at the right place.
 
 REQUIREMENTS TO UNDERSTAND THE PROJECT - You just need to  be famililiar with basic statistical graphs, some basic knowledge on seaborn, numpy and pandas(not in detail)
-Before running each and every cell make sure that you have installed the essential modules using "pip install module_name" or any apprroach that you choose. 
+Before running each and every cell make sure that you have installed the essential modules using "pip install module_name" or any approach that you choose. 
 
 This project might look small and simple but you learn a lot on how data really gives us the results beyond our expectations.
 
