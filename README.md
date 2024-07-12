@@ -1,5 +1,5 @@
 # A-analysis-on-Fandango-using-python
-If you are someone, who's looking for a simple project on Python to play around with the data, You ae at the right place.
+If you are looking for a simple project on Python to play around with the data, You are at the right place.
 
 REQUIREMENTS TO UNDERSTAND THE PROJECT - You just need to  be famililiar with basic statistical graphs, some basic knowledge on seaborn, numpy and pandas(not in detail)
 Before running each and every cell make sure that you have installed the essential modules using "pip install module_name" or any apprroach that you choose. 
